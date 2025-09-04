@@ -1,0 +1,45 @@
+.title-work{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.work-into {
+   color: rgb(0, 0, 0);
+   margin-bottom: 2rem;
+   text-align: center;
+   font-size: 1rem;
+   max-width: 1500px;
+   margin-left: auto;
+   margin-right: auto;
+
+
+}
+.work-gallery{
+    margin-bottom: 1.5rem;
+}
+.meta{
+    max-width: 1500px;
+    margin: auto;
+    text-align: left;
+    box-shadow: 0 1px 11px red;
+    border-radius: 5px;
+    padding: 1rem;
+    max-width: 1000px;
+    margin-bottom: 2rem;
+    
+}
+.mata p{
+    margin: 5rem;
+}   
+.worlk-back {
+    text-align: center;
+}
+.small {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #ff8046;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    transition: background-color 0.5s ease;
+    margin-left: 1rem;
+    text-align: center;
+}
